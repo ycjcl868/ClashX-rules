@@ -92,6 +92,7 @@ Rule:
  - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
  - DOMAIN-KEYWORD,alipay,🎯 全球直连,no-resolve
  - DOMAIN-KEYWORD,ali,🎯 全球直连,no-resolve
+ - DOMAIN-KEYWORD,antfin,🎯 全球直连,no-resolve
  - DOMAIN-KEYWORD,alibaba,🎯 全球直连,no-resolve
  - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
  - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
@@ -9281,6 +9282,7 @@ Rule:
  - DOMAIN-SUFFIX,gvt1.com,🔰 节点选择
  - DOMAIN-SUFFIX,gvt3.com,🔰 节点选择
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🔰 节点选择
+ - DOMAIN-SUFFIX,yarnpkg.com,🔰 节点选择
  - DOMAIN-KEYWORD,google,🔰 节点选择
  - DOMAIN-KEYWORD,blogspot,🔰 节点选择
  - DOMAIN-SUFFIX,onedrive.live.com,🔰 节点选择
@@ -10173,6 +10175,8 @@ Rule:
  - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
  - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
  - DOMAIN,download.jetbrains.com,🎯 全球直连
+ - DOMAIN-KEYWORD,SafeBrowsing,🎯 全球直连
+ - DOMAIN-SUFFIX,safebrowsing.googleapis.com,🎯 全球直连
  - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
  - IP-CIDR,119.28.28.28/32,🎯 全球直连,no-resolve
  - DOMAIN-SUFFIX,smtp,🎯 全球直连
